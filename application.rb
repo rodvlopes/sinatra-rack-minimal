@@ -3,5 +3,5 @@ require 'sinatra'
 
 # root page
 get '/' do
-  'Este é um exemplo muito básico!'
+  'My home page is here.'
 end
