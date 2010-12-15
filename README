@@ -1,5 +1,0 @@
-You can start a Sinatra application from here.
-
-It comes with a config.ru that makes compatible with rack. 
-So you can deploy it into any webserver rack compatible
-like Apache and Nginx.

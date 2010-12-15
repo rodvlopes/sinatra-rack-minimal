@@ -1,7 +1,9 @@
 require 'rubygems'
 require 'sinatra'
+require 'helpers'
 
 # root page
 get '/' do
-  'My home page is here.'
+  @message = 'Hello World!'
+  erb :index
 end
