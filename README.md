@@ -13,6 +13,7 @@ Features
 
 - config.ru to deploy inside apache/nginx
 - views using erb
+- partials and layout use examples
 - tmp/restart.txt to be touched
 
 Requirements
